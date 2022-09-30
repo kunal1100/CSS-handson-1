@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+
+.intro h2{
+    color: red;
+    font-style: italic;
+}
+.intro li{
+    color: brown;
+    font-weight: 300;
+}
+#number4{
+    font-style: italic;
+    text-decoration: underline;
+}
+.types li{
+    letter-spacing: 5px;
+}
+a{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+}
